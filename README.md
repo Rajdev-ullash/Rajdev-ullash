@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajdev-ullash&label=Profile%20views&color=0e75b6&style=flat" alt="rajdev-ullash" /> </p>
 
 <p align="left"> <a href="https://github.com/rajdev-ullash/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajdev-ullash" alt="rajdev-ullash" /></a> </p>
+
 - 🌱 I’m currently learning **Blockchain**
 
 - 👨‍💻 All of my projects are available at [https://raj-dev-ullash.web.app/](https://raj-dev-ullash.web.app/)
