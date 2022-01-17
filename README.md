@@ -12,9 +12,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
- <a href="https://linkedin.com/in/raj-dev-ullash-831512203/"><img height="30" width="30" align="center" src="https://i.ibb.co/Xj2B4Nj/linkedin.png" alt="" /> </a> 
- <a href="https://fb.com/princeboy.rd.9" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/145/145802.svg?token=exp=1619792361~hmac=7a81f7ede9cd7d69047326f6e6583801" alt="princeboy.rd.9" height="30" width="30" /></a> 
- <a href="https://instagram.com/raj_dev_ullash" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/174/174855.svg?token=exp=1619792414~hmac=15c3fe3a6cb50c3469bb560c062f229e" alt="raj_dev_ullash" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/raj-dev-ullash-831512203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raj-dev-ullash-831512203" height="30" width="40" /></a>
+<a href="https://fb.com/princeboy.rd.9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="princeboy.rd.9" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
