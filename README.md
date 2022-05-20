@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/rajdev-ullash/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajdev-ullash" alt="rajdev-ullash" /></a> </p>
 
-- 🌱 I’m currently learning **Blockchain**
+- 🌱 I’m currently learning **React Native**
 
 - 👨‍💻 All of my projects are available at [https://raj-dev-ullash.web.app/](https://raj-dev-ullash.web.app/)
 
